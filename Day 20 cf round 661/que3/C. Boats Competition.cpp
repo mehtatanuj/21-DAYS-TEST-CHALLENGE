@@ -1,3 +1,5 @@
+
+// this is not a write solution 
 #include<bits/stdc++.h>
 #define ll  long long int
 #define fr(i,n) for(ll i=0; i<n; i++)
